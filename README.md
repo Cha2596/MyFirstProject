@@ -1,3 +1,4 @@
 # MyFirstProject
-This is my first Git Repository
-Author- Sri Charitha Gundu
+This is my first Git Repository.
+<br>
+Author- Sri Charitha Gundu.
